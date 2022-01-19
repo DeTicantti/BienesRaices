@@ -1,0 +1,19 @@
+@import 'base/normalize';
+@import 'base/variables';
+@import 'base/mixins';
+@import 'base/globales';
+@import 'base/utilidades';
+@import 'base/btn.scss';
+@import 'base/darkmode.scss';
+@import 'layout/header.scss';
+@import 'layout/nav.scss';
+@import 'layout/iconos.scss';
+@import 'layout/anuncios.scss';
+@import 'layout/inferior.scss';
+@import 'layout/contactar.scss';
+@import 'layout/testimoniales.scss';
+@import 'layout/formularios.scss';
+@import 'layout/footer.scss';
+
+/*internas*/
+@import 'internas/nosotros.scss';

@@ -1,0 +1,15 @@
+.btn-amarillo{
+    @include btn-block($amarillo,uppercase);
+}
+.btn-verde{
+    @include btn-block($verde,uppercase);
+}
+
+.btn-block{
+    @include btn-block($amarillo,uppercase);
+        }
+.btn-inline{
+    @include btn-inline($verde,uppercase);
+        }
+
+        
